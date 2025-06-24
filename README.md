@@ -29,9 +29,10 @@ A full-stack Installment Management System built using the MERN (MongoDB, Expres
 
 ## 📸 Preview
 
-> *Coming Soon: Add screenshots or a demo video.*
+<img width="953" alt="t-3" src="https://github.com/user-attachments/assets/1ff1282c-6219-4b80-b87c-16ec01db2dff" />
+<img width="953" alt="t-3" src="https://github.com/user-attachments/assets/a804cfe4-7c6f-48bf-8d9b-72ab15b5ad3d" />
 
----
+
 
 ## ⚙️ Installation & Setup
 
