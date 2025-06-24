@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Home from './components/Home';
 import Calculator from './components/concents/Calculator';
 import Criteria from './components/concents/Criteria';
-import All from './components/concents/All';
+import Search from './components/concents/Search';
 import Plans from './components/concents/Plans';
 import Add from './components/concents/Add';
 
@@ -17,7 +17,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
         <Route path="/criteria" element={<Criteria />} />
-        <Route path="/all" element={<All />} />
+        <Route path="/search" element={<Search />} />
         <Route path="/plans" element={<Plans />} />
         <Route path="/add" element={<Add />} />
       </Routes>
