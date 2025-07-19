@@ -41,7 +41,7 @@ A full-stack Installment Management System built using the MERN (MongoDB, Expres
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Abdullah-Hassan20/Password-Manager.git
+   git clone https://github.com/Abdullah-Hassan20/Installment-Manager.git
    cd Password-Manager
 
 2. **Setup Backend**
